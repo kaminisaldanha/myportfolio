@@ -1,0 +1,21 @@
+.navbar-container {
+    width: 100vw;
+    padding: 0 60vw;
+}
+
+.navbar-list {
+    margin: 0;
+    padding: 0;
+    display: flex;  
+}
+
+.navbar-item {
+    list-style-type: none;
+    margin: 0 2vw;
+    font-size: 3vh;
+}
+
+.navbar-title {
+    text-decoration: none;
+    color: black;
+}

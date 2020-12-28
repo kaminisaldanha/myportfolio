@@ -1,1 +1,1 @@
-# myportfolio
+This is a project I am working on to create my own portfolio website using React.
